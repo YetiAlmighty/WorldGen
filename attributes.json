@@ -1,0 +1,39 @@
+{
+    "surface": {
+        "types": [
+            {
+                "type": "lava",
+                "color": "red"
+            },
+            {
+                "type": "water",
+                "color": "blue"
+            },
+            {
+                "type": "biome",
+                "color": "dark green"
+            },
+            {
+                "type": "mountain",
+                "color": "grey"
+            }
+        ]
+    },
+    "atmosphere": {
+        "types": [
+            {
+                "type": "sulfur",
+                "color": "brown"
+            },
+            {
+                "type": "acid",
+                "color": "green"
+            },
+            {
+                "type": "water",
+                "color": "light blue"
+            }
+        ],
+        "opacity": "75%"
+    }
+}
